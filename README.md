@@ -1,56 +1,62 @@
 # 👋 Hi, I'm Çağrı Çelebioğlu
 
 🎓 Senior Software Engineering Student at Kocaeli University  
-💻 Passionate about Backend Development with .NET and Java Technologies  
-🚀 Experienced in MVC Architecture, REST APIs, and Full-Stack Web Development  
-🎖 TEV Scholarship Recipient
+💻 Specialized in Backend Development using .NET & Java Technologies  
+🧠 Skilled in RESTful API Design, Clean Architecture, and Database Management  
+🎯 TEKNOFEST Contributor • TEV Scholarship Recipient  
+🌍 Open to global internship & junior developer opportunities
 
 ---
 
 ## 🧠 About Me
-- Final year student actively building robust backend systems and enterprise applications.  
-- Strong foundation in Object-Oriented Programming, software design patterns, and service-based architectures.  
-- Seeking internship or junior backend developer roles in .NET or Java ecosystems.
+- Final year software engineering student with a strong interest in enterprise backend systems and scalable software architecture.  
+- Adept at building clean, maintainable APIs and services using C#, ASP.NET Core, Java, and Spring Boot.  
+- Enjoy collaborating in agile teams and turning complex problems into structured, performant codebases.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- C# • Java • SQL • (basic Python)
+**Languages**  
+`C#` • `Java` • `SQL` • `Dart` • *(basic Python)*
 
-**Frameworks & Tools:**
-- .NET • Entity Framework • ASP.NET Core • Spring Boot • Git • RESTful APIs • Flutter (Frontend)
+**Frameworks & Tools**  
+`.NET` • `ASP.NET Core` • `Entity Framework` • `Spring Boot` • `Flutter` • `Git` • `Firebase` • `REST API` • `MySQL`
 
-**Concepts:**
-- OOP • MVC • Dependency Injection • Layered Architecture • Agile Development • Team Collaboration
+**Principles & Practices**  
+`OOP` • `MVC` • `Dependency Injection` • `Layered Architecture` • `Agile / Scrum` • `Clean Code` • `CI/CD Basics`
 
 ---
 
 ## 🚀 Highlight Projects
 
-- **Fire Management System**  
-  C#, .NET, Flutter — Full-stack system to monitor and manage fire control operations.  
+🔹 **Fire Management System**  
+*Tech:* C#, .NET, Flutter, Entity Framework  
+A modular fire control system using MVC architecture with Flutter-based UI. Integrated user roles and authentication.
 
-- **Gym Management System**  
-  Java, Spring Boot, Hibernate — Admin interface for client tracking, scheduling, and reporting.  
+🔹 **Combat UAV Object Detection (TEKNOFEST)**  
+*Tech:* Python, OpenCV, YOLO  
+Real-time UAV detection and tracking system, integrated with flight control simulations for Teknofest competition.
 
-- **Vehicle Sale System**  
-  C#, SQL — Console-based backend logic for simple vehicle inventory and transactions.  
+🔹 **Gym Management System**  
+*Tech:* Java 17, Spring Boot, MySQL, Hibernate  
+Desktop application for member tracking, session planning, and real-time report generation.
 
-- **Restaurant Menu System**  
-  C#, Windows Forms — Local desktop app for managing dynamic restaurant menus.
+🔹 **HC Software Tracking App**  
+*Tech:* Flutter, Firebase, Google Maps API  
+Voluntary contribution to a real-time geolocation and tracking mobile app; learned service integration and Firebase auth.
 
-📌 More backend-focused repositories are pinned below ↓
+📌 More projects and source code available in pinned repositories ↓
 
 ---
 
 ## 📈 GitHub Stats
-![Çağrı's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagriclbgl&show_icons=true&theme=default)
+![Çağrı's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagriclbgl&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagriclbgl&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/cagricelebioglu](https://linkedin.com/in/cagricelebioglu)  
-- GitHub: [github.com/cagriclbgl](https://github.com/cagriclbgl)  
-- Email: cagricelebioglu.seng@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/cagricelebioglu)  
+- 💻 [GitHub](https://github.com/cagriclbgl)  
+- 📧 cagricelebioglu.seng@gmail.com
