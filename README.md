@@ -34,17 +34,17 @@
 *Tech:* C#, .NET, Flutter, Entity Framework  
 A modular fire control system using MVC architecture with Flutter-based UI. Integrated user roles and authentication.
 
-🔹 **Combat UAV Object Detection (TEKNOFEST)**  
-*Tech:* Python, OpenCV, YOLO  
-Real-time UAV detection and tracking system, integrated with flight control simulations for Teknofest competition.
-
 🔹 **Gym Management System**  
 *Tech:* Java 17, Spring Boot, MySQL, Hibernate  
 Desktop application for member tracking, session planning, and real-time report generation.
 
-🔹 **HC Software Tracking App**  
-*Tech:* Flutter, Firebase, Google Maps API  
-Voluntary contribution to a real-time geolocation and tracking mobile app; learned service integration and Firebase auth.
+🔹 **Vehicle Sale System**  
+*Tech:* C#, SQL   
+Console-based backend logic for simple vehicle inventory and transactions.
+
+🔹 **Restaurant Menu System**  
+*Tech:*  C#, Windows Forms  
+Local desktop app for managing dynamic restaurant menus.
 
 📌 More projects and source code available in pinned repositories ↓
 
