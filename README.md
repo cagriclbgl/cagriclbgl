@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Çağrı Çelebioğlu
 
+
 🎓 Senior Software Engineering Student at Kocaeli University  
 💻 Specialized in Backend Development using .NET & Java Technologies  
 🧠 Skilled in RESTful API Design, Clean Architecture, and Database Management  
-🎯 TEKNOFEST Contributor • TEV Scholarship Recipient  
+🎯 Open source contributor • TEV Scholar • TEKNOFEST participant
 🌍 Open to global internship & junior developer opportunities
 
 ---
 
 ## 🧠 About Me
-- Final year software engineering student with a strong interest in enterprise backend systems and scalable software architecture.  
-- Adept at building clean, maintainable APIs and services using C#, ASP.NET Core, Java, and Spring Boot.  
-- Enjoy collaborating in agile teams and turning complex problems into structured, performant codebases.
+- Passionate about enterprise backend systems and scalable architecture  
+- Hands-on with C#, ASP.NET Core, Java, Spring Boot  
+- Enjoys solving real-world problems through modular and clean code
+- Team player, agile development enthusiast
 
 ---
 
 ## 🛠️ Tech Stack
+
 
 **Languages**  
 `C#` • `Java` • `SQL` • `Dart` • *(basic Python)*
@@ -53,6 +56,7 @@ Local desktop app for managing dynamic restaurant menus.
 ## 📈 GitHub Stats
 ![Çağrı's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagriclbgl&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagriclbgl&layout=compact&theme=github_dark)
+
 
 ---
 
